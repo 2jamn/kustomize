@@ -1,4 +1,3 @@
-vi kustomization.yaml
 namePrefix: prod-
 resources: 
 - deployment.yaml
