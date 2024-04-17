@@ -1,5 +1,5 @@
+vi kustomization.yaml
 namePrefix: prod-
-resources:
-  - deployment.yaml
-  - service.yaml
-
+resources: 
+- deployment.yaml
+- service.yaml
